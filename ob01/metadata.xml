@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cem:cem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cem="http://ltsc.ieee.org/xsd/CEM" xsi:type="cem:cem" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lomCustom.xsd">
+  <general>
+    <language>en</language>
+    <identifier>
+      <catalog catName="edistribution" catSource="http://www.edistribution.co/">engenn1le01ob01</catalog>
+    </identifier>
+    <title subtitle="" lang="en">Hello!</title>
+    <description lang="en">This virtual learning object "Hello!" that makes part of the lesson No: 1, What's Your Name?, which in turn belongs to the Pre-Starter (Pre-A1) of the teaching of English as a Foreign Language, is intended to work on: say hello and goodbye in more or less formal situations, at different times of the day; introduce yourself to a class group or to a visitor at work. The grammar of this LO refers to: present tense of verb to be (am, is, are) in affirmative form: I, he, she, it. Also, the vocabulary considers: greetings; personal information: names, last names, titles; times of the day, days, seasons, e.g. Friday, Winter, Summer.</description>
+    <keyword lang="en">
+      <li>Greetings</li>
+      <li>Personal Information</li>
+      <li>Names</li>
+      <li>Weekdays</li>
+      <li>Seasons</li>
+      <li>Simple present</li>
+      <li>Affirmative forms</li>
+      <li>Verb to be</li>
+    </keyword>
+  </general>
+  <lifeCycle>
+    <version date="30-04-2015">1.0</version>
+    <status>Publicado</status>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity entityForm="24933" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Martin, Bill</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity entityForm="24934" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Ma, Yueh-Chin</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity entityForm="24935" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Zlatkin, Lial</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24936" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">McMahon, Robert Christopher</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24937" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Roadhouse, Sean Roy</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24938" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Zlatkin, Martin</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24939" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Tomlinson, Kristine Rose Seko</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24940" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Kwong, Truman</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity entityForm="24941" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Edmonds, Jayne</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador instruccional</role>
+      <entity entityForm="24942" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Gagliano, Rita</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24943" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Gullotti, Giuliano</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24944" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Ryan, Natalie</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24945" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Loganathan, Chamini</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24946" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Power, Anne-Louise</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24947" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Vizard, Carol</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24948" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Gibbs, Charles</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity entityForm="24952" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Pereira, Ricardo Jorge da Rocha Silva</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity entityForm="24953" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Romanova, Maria Alexandrovna</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity entityForm="24954" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Moffat, Siusan</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity entityForm="24955" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Wasson, Jeff</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24957" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Singh, Seema</entity>
+      <date>30-04-2015</date>
+    </contribute>
+  </lifeCycle>
+  <educational>
+    <description>
+      <recommendedUse lang="en">This digital resource can be used as an activity that allows the learner to reflect on the use of grammar of English language in different communicative contexts. The instructor can work further on activities and tasks that help learners to improve their procedural knowledge.</recommendedUse>
+      <triggerQuestion lang="en">How do you say hello to friends?; How do you say hello to your teacher?</triggerQuestion>
+      <pedagogicalAspect lang="en">This learning object "Hello!" that is part of the lesson No: 1, What's Your Name?, which in turn belongs to the Pre-Starter (Pre-A1) of the teaching of English as a Foreign Language, allows the learner to develop the following topics: present tense of verb to be (am, is, are) in affirmative form: I, he, she, it. It is presented within the context of say hello and goodbye in more or less formal situations, at different times of the day; introduce yourself to a class group or to a visitor at work. The student will be exposed to vocabulary related to: greetings; personal information: names, last names, titles; times of the day, days, seasons, e.g. Friday, Winter, Summer. Learners will develop their language skills by using an online content as well as the guidance of a SENA instructor.</pedagogicalAspect>
+      <learningGoal lang="en">The purpose of this learning object is to exchange basic personal information.</learningGoal>
+    </description>
+  </educational>
+</cem:cem>
